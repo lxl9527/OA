@@ -1,0 +1,82 @@
+
+/*.container-fluid ul{*/
+    /*float: right;*/
+/*}*/
+
+li {
+    display: inline-block;
+    list-style-type :none;
+}
+
+.my_content{
+    text-align: center;
+}
+
+
+
+.col-md-1 button{
+    display: inline-block;
+}
+
+.my_search{
+    width:100%;
+    display:block;
+    margin: 10px auto;
+}
+
+
+.my_search li{
+    display: inline-block;
+}
+
+.my_search li:first-child{
+    margin-left: -100px;
+}
+
+
+
+.my_select_test ul{
+    text-align: center;
+}
+
+.my_select_test ul li{
+    float: left;
+}
+
+.my_btn{
+    margin-top: 10px;
+}
+
+
+/*房间样式*/
+.room{
+    color: #ffffff;
+    line-height: 50px;
+    height: 100px;
+    display: inline-block;
+    border: 1px solid;
+    box-shadow: #c2a674 2px 3px 3px 3px;
+    border-radius:5px;
+    padding-right: 5px;
+    margin-top: 10px;
+    background: #c2a674;
+    box-sizing: border-box;
+}
+
+.room p{
+    display: block;
+    margin: 0;
+    padding: 0;
+    line-height: 50px;
+}
+
+.room_color{
+    background: #bfbfbf;
+}
+
+
+.my_date li{
+    display: inline-block;
+    float: left;
+} 
+
